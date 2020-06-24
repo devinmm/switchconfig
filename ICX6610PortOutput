@@ -1,0 +1,149 @@
+TD-SW1#sh int e 1/2/7 to 1/2/10
+  10GigabitEthernet 1/2/7 is up, line protocol is up
+  Port up for 9 hour(s) 42 minute(s) 48 second(s)
+  Hardware is   10GigabitEthernet , address is 609c.9f44.70c8 (bia 609c.9f44.70e7)
+  Configured speed 10Gbit, actual 10Gbit, configured duplex fdx, actual fdx
+  Configured mdi mode AUTO, actual none
+  Member of 2 L2 VLANs, port is dual mode in Vlan 1, port state is FORWARDING
+  BPDU guard is Disabled, ROOT protect is Disabled, Designated protect is Disabled
+  Link Error Dampening is Disabled
+  STP configured to ON, priority is level0, mac-learning is enabled
+  Openflow is Disabled, Openflow Hybrid mode is Disabled,  Flow Control is config enabled, oper enabled, negotiation disabled
+  Mirror disabled, Monitor disabled
+  Mac-notification is disabled
+  Not member of any active trunks
+  Not member of any configured trunks
+  No port name
+  MTU 1500 bytes, encapsulation ethernet
+  300 second input rate: 0 bits/sec, 0 packets/sec, 0.00% utilization
+  300 second output rate: 8704 bits/sec, 5 packets/sec, 0.00% utilization
+  7214028 packets input, 6815084667 bytes, 0 no buffer
+  Received 413 broadcasts, 391 multicasts, 7213224 unicasts
+  0 input errors, 0 CRC, 0 frame, 0 ignored
+  0 runts, 0 giants
+  8153953 packets output, 10575653123 bytes, 0 underruns
+  Transmitted 101432 broadcasts, 148618 multicasts, 7903903 unicasts
+  0 output errors, 0 collisions
+  Relay Agent Information option: Disabled
+
+Egress queues:
+Queue counters    Queued packets    Dropped Packets
+    0             8153949                   0
+    1                   0                   0
+    2                   0                   0
+    3                   0                   0
+    4                   0                   0
+    5                   4                   0
+    6                   0                   0
+    7                   0                   0
+  10GigabitEthernet 1/2/8 is up, line protocol is up
+  Port up for 9 hour(s) 42 minute(s) 51 second(s)
+  Hardware is   10GigabitEthernet , address is 609c.9f44.70c8 (bia 609c.9f44.70e8)
+  Configured speed 10Gbit, actual 10Gbit, configured duplex fdx, actual fdx
+  Configured mdi mode AUTO, actual none
+  Member of 2 L2 VLANs, port is dual mode in Vlan 1, port state is FORWARDING
+  BPDU guard is Disabled, ROOT protect is Disabled, Designated protect is Disabled
+  Link Error Dampening is Disabled
+  STP configured to ON, priority is level0, mac-learning is enabled
+  Openflow is Disabled, Openflow Hybrid mode is Disabled,  Flow Control is config enabled, oper enabled, negotiation disabled
+  Mirror disabled, Monitor disabled
+  Mac-notification is disabled
+  Not member of any active trunks
+  Not member of any configured trunks
+  No port name
+  MTU 1500 bytes, encapsulation ethernet
+  300 second input rate: 0 bits/sec, 0 packets/sec, 0.00% utilization
+  300 second output rate: 8688 bits/sec, 5 packets/sec, 0.00% utilization
+  353721 packets input, 447921436 bytes, 0 no buffer
+  Received 49 broadcasts, 543 multicasts, 353129 unicasts
+  0 input errors, 0 CRC, 0 frame, 0 ignored
+  0 runts, 0 giants
+  800933 packets output, 799215342 bytes, 0 underruns
+  Transmitted 101529 broadcasts, 148450 multicasts, 550954 unicasts
+  0 output errors, 0 collisions
+  Relay Agent Information option: Disabled
+
+Egress queues:
+Queue counters    Queued packets    Dropped Packets
+    0              800929                   0
+    1                   0                   0
+    2                   0                   0
+    3                   0                   0
+    4                   0                   0
+    5                   4                   0
+    6                   0                   0
+    7                   0                   0
+  10GigabitEthernet 1/2/9 is up, line protocol is up
+  Port up for 9 hour(s) 43 minute(s) 5 second(s)
+  Hardware is   10GigabitEthernet , address is 609c.9f44.70c8 (bia 609c.9f44.70e9)
+  Configured speed 10Gbit, actual 10Gbit, configured duplex fdx, actual fdx
+  Configured mdi mode AUTO, actual none
+  Member of 2 L2 VLANs, port is dual mode in Vlan 1, port state is FORWARDING
+  BPDU guard is Disabled, ROOT protect is Disabled, Designated protect is Disabled
+  Link Error Dampening is Disabled
+  STP configured to ON, priority is level0, mac-learning is enabled
+  Openflow is Disabled, Openflow Hybrid mode is Disabled,  Flow Control is config enabled, oper enabled, negotiation disabled
+  Mirror disabled, Monitor disabled
+  Mac-notification is disabled
+  Not member of any active trunks
+  Not member of any configured trunks
+  No port name
+  MTU 1500 bytes, encapsulation ethernet
+  300 second input rate: 1432 bits/sec, 1 packets/sec, 0.00% utilization
+  300 second output rate: 24832 bits/sec, 10 packets/sec, 0.00% utilization
+  7327343 packets input, 10171433393 bytes, 0 no buffer
+  Received 123 broadcasts, 4747 multicasts, 7322473 unicasts
+  0 input errors, 0 CRC, 0 frame, 0 ignored
+  0 runts, 0 giants
+  9018926 packets output, 10835806441 bytes, 0 underruns
+  Transmitted 101510 broadcasts, 144372 multicasts, 8773044 unicasts
+  0 output errors, 0 collisions
+  Relay Agent Information option: Disabled
+
+Egress queues:
+Queue counters    Queued packets    Dropped Packets
+    0             9018922               70606
+    1                   0                   0
+    2                   0                   0
+    3                   0                   0
+    4                   0                   0
+    5                   4                   0
+    6                   0                   0
+    7                   0                   0
+  10GigabitEthernet 1/2/10 is up, line protocol is up
+  Port up for 9 hour(s) 43 minute(s) 10 second(s)
+  Hardware is   10GigabitEthernet , address is 609c.9f44.70c8 (bia 609c.9f44.70ea)
+  Configured speed 10Gbit, actual 10Gbit, configured duplex fdx, actual fdx
+  Configured mdi mode AUTO, actual none
+  Member of 2 L2 VLANs, port is dual mode in Vlan 1, port state is FORWARDING
+  BPDU guard is Disabled, ROOT protect is Disabled, Designated protect is Disabled
+  Link Error Dampening is Disabled
+  STP configured to ON, priority is level0, mac-learning is enabled
+  Openflow is Disabled, Openflow Hybrid mode is Disabled,  Flow Control is config enabled, oper enabled, negotiation disabled
+  Mirror disabled, Monitor disabled
+  Mac-notification is disabled
+  Not member of any active trunks
+  Not member of any configured trunks
+  No port name
+  MTU 1500 bytes, encapsulation ethernet
+  300 second input rate: 0 bits/sec, 0 packets/sec, 0.00% utilization
+  300 second output rate: 9472 bits/sec, 6 packets/sec, 0.00% utilization
+  0 packets input, 0 bytes, 0 no buffer
+  Received 0 broadcasts, 0 multicasts, 0 unicasts
+  0 input errors, 0 CRC, 0 frame, 0 ignored
+  0 runts, 0 giants
+  250980 packets output, 50004082 bytes, 0 underruns
+  Transmitted 101615 broadcasts, 149176 multicasts, 189 unicasts
+  0 output errors, 0 collisions
+  Relay Agent Information option: Disabled
+
+Egress queues:
+Queue counters    Queued packets    Dropped Packets
+    0              250976                   0
+    1                   0                   0
+    2                   0                   0
+    3                   0                   0
+    4                   0                   0
+    5                   4                   0
+    6                   0                   0
+    7                   0                   0
